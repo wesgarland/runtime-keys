@@ -154,6 +154,16 @@ Website: [https://bun.sh/](https://bun.sh/)
 
 Repository: [https://github.com/oven-sh/bun](https://github.com/oven-sh/bun)
 
+## Distributive - PythonMonkey ## {#pythonmonkey}
+
+Python + JavaScript shared runtime. Host environment that allows JS access to Python libs and vice-versa.
+
+Key: `pythonmonkey`
+
+Website: [https://pythonmonkey.io/](https://pythonmonkey.io/)
+
+Repository: [https://github.com/Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey#pythonmonkey)
+
 ## React - Server Components ## {#react-server}
 
 Used by React Server Components.
